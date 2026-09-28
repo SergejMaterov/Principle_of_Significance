@@ -1,6 +1,5 @@
 # Embedded Observer NoGo
 
-[![CI](https://github.com/SergejMaterov/Embedded_Observer_NoGo/actions/workflows/ci.yml/badge.svg)](https://github.com/SergejMaterov/Embedded_Observer_NoGo/actions/workflows/ci.yml)
 
 Paper and numerical checks for **The Embedded-Observer No-Go Theorem: Non-Reconstructibility, Non-Autonomy, and Their
 Quantitative Form for Tensor-Factor Observers in Finite-Dimensional Closed Quantum Systems** (Sergej Materov, revised
