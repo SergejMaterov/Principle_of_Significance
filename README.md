@@ -71,9 +71,9 @@ the 1e-16 level across numpy/BLAS versions are expected, the reported inequaliti
 
 ## Citation
 
-See `CITATION.cff`. If you use the paper, please cite the version in `paper/`.
+See `CITATION.cff`.
 
 ## License
 
-Code: MIT (see `LICENSE`). The text of the paper in `paper/` is © 2026 Sergej Materov and is provided for reading and
+Code: MIT (see `LICENSE`). © 2026 Sergej Materov and is provided for reading and
 verification.
