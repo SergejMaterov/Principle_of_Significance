@@ -28,6 +28,7 @@ An observer is modelled as a proper tensor factor `O` of a finite-dimensional cl
 ```
 paper/                                 the paper (.docx is the reference version; .pdf is a LibreOffice rendering)
 embedded_observer_checks.py            all numerical checks C1–C8 of Appendix A; prints the tables of the paper
+embedded_observer_checks_corollary75.py test corollary 7.5
 tests/test_paper_claims.py             pytest suite: one test per proved statement, fresh seeds
 results/checks_output.txt              output of the script that is reported in Appendix A
 requirements.txt, requirements-dev.txt
